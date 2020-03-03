@@ -8,6 +8,7 @@
 </head>
 <body>
 	<form action="Add" method="post">
+		查找信息为<br/>
 		用户名:<input type="text" name="name" value=""/><br/>
 		年龄:<input type="text" name="age" value=""/><br/>
 		<input type="submit" value="保存"/>
